@@ -33,10 +33,3 @@ It is also important to know how data travels across networks and how common net
 - Firewall
 - VPN
 
-## About This Document
-
-This document serves as a collection of my networking notes.
-
-It documents the networking concepts I learn as part of my cybersecurity journey.
-
-The content will be updated regularly with new concepts, practical examples, and hands-on labs.
